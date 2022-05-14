@@ -1,0 +1,8 @@
+{
+    "localization_type": 0,
+    "robot_list": [
+        {"robot_name": "drone1", "robot_id": 1},
+        {"robot_name": "drone2", "robot_id": 2}
+    ]
+
+}
